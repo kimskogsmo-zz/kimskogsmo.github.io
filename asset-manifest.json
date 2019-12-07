@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fifa-leaderboards/static/css/main.b100e6da.chunk.css",
+    "main.js": "/fifa-leaderboards/static/js/main.48c34657.chunk.js",
+    "main.js.map": "/fifa-leaderboards/static/js/main.48c34657.chunk.js.map",
+    "runtime-main.js": "/fifa-leaderboards/static/js/runtime-main.0399a274.js",
+    "runtime-main.js.map": "/fifa-leaderboards/static/js/runtime-main.0399a274.js.map",
+    "static/js/2.05dada91.chunk.js": "/fifa-leaderboards/static/js/2.05dada91.chunk.js",
+    "static/js/2.05dada91.chunk.js.map": "/fifa-leaderboards/static/js/2.05dada91.chunk.js.map",
+    "index.html": "/fifa-leaderboards/index.html",
+    "precache-manifest.868977e6ff53426dc1fd1efa4abcbdab.js": "/fifa-leaderboards/precache-manifest.868977e6ff53426dc1fd1efa4abcbdab.js",
+    "service-worker.js": "/fifa-leaderboards/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/fifa-leaderboards/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/fifa-leaderboards/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0399a274.js",
+    "static/js/2.05dada91.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.48c34657.chunk.js"
+  ]
+}
